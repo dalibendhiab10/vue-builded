@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[55],{2055:function(t,e,a){a.r(e),a.d(e,{default:function(){return l}});var n=a(2262),s=a(6252),i=a(6154),o={__name:"DashboardPay",setup(t){let e=localStorage.getItem("token"),a=(0,n.iH)();return(0,s.bv)((()=>{i.Z.get("https://api.plaimmobiliere.online/statics/get/Dashboard",{headers:{Authorization:e}}).then((t=>{a.value=t.data.data})).catch((t=>{console.log(t)}))})),(t,e)=>" this is dashbord Payment "}};const r=o;var l=r}}]);
+//# sourceMappingURL=55.8c7b1540.js.map

@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+
+            "name": "carfour1",
+            "streets": "sousse",
+            "blocsCounter": 1,
+            "etageCounter": 1,
+            "appartementCounter": 2,
+            "LocalCounter": 2
+        },
+        {
+            "name": "carfour122",
+            "streets": "sousse",
+            "blocsCounter": 0,
+            "etageCounter": 0,
+            "appartementCounter": 0,
+            "LocalCounter": 0
+        }
+    ]
+}
